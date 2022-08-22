@@ -21,12 +21,23 @@ img {
 }
 </style>
 
+## Team
+
+### Fall 2022
+
+To be updated.
+
+### Spring and Summer 2022
+
 <div class="row">
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/aakash.jpg">
   </div>
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/carlos.jpg">
+  </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/chris.jpg">
   </div>
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
@@ -39,6 +50,9 @@ img {
   </div>
   <div class="column">
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/carlos-meisel/">Carlos Meisel</a></h3>
+  </div>
+  <div class="column">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/chris-notzon-8a8b0415a/">Carlos Meisel</a></h3>
   </div>
   <div class="column">
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
