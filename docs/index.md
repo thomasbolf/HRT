@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/neuroergotamu/HRT/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="row">
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/aakash.jpg">
+  </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/carlos.jpg">
+  </div>
+  <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
+  </div>
+ </div>
 
-### Markdown
+ <div class="row">
+  <div class="column">
+    <h3 style="text-align: center"><a href="https://nimrobotics.com/">Aakash</a></h3>
+  </div>
+  <div class="column">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/carlos-meisel/">Carlos Meisel</a></h3>
+  </div>
+  <div class="column">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
+  </div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<br>
+### Corresponding author
 
-```markdown
-Syntax highlighted code block
+Aakash Yadav [aakash@tamu.edu](mailto:aakash@tamu.edu) [![](https://img.shields.io/twitter/follow/nimrobotics.svg?style=social)](https://twitter.com/intent/follow?screen_name=nimrobotics)
 
-# Header 1
-## Header 2
-### Header 3
+<!-- <iframe src="poster.pdf" width="100%" height="500px"> </iframe>  -->
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Problem Statement
 
-**Bold** and _Italic_ and `Code` text
+## Conceptualization
 
-[Link](url) and ![Image](src)
-```
+## Measurements
+- [fNIRS](https://www.nimh.nih.gov/research/fNIRS/)
+- [Tobii Nano](https://www.tobii.com/en-us/products/nano-eye-tracking/)
+- [ECG](https://www.actiheart.com/)
+- [EEG](https://www.brainproducts.com/en/products/brain-vision-recorder/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Tech Stack
+- [Unity](https://unity3d.com/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [python](https://www.python.org/)
+- [ROS](https://www.ros.org/)
+- [MATLAB](https://www.mathworks.com/)
 
-### Jekyll Themes
+## Timeline
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neuroergotamu/HRT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Participate
+In order to participate in this project, you will need to be physically present at the lab at TAMU. The experiment is currently undergoing internal testing, register [here](https://forms.gle/4YYi2Exzs5MyREZu5) to get notified when the experiment is ready.
 
-### Support or Contact
+## Provide Feedback
+Our team is always looking for feedback on our project. Please contact us at [aakash@tamu.edu](mailto:aakash@tamu.edu) or [nimrobotics@gmail.com](mailto:nimrobotics@gmail.com).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- reference the papers -->
+## References
+- [1] `Hopko, S. K., & Mehta, R. K. Neural Correlates of Trust in Automation: Considerations and Generalizability Between Technology Domains. Frontiers in Neuroergonomics, 26.`
+
+- [2] `Hopko, S. K., Khurana, R., Mehta, R. K., & Pagilla, P. R. (2021). Effect of Cognitive Fatigue, Operator Sex, and Robot Assistance on Task Performance Metrics, Workload, and Situation Awareness in Human-Robot Collaboration. IEEE Robotics and Automation Letters, 6(2), 3049-3056.`
+
