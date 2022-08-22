@@ -47,21 +47,7 @@ To be updated.
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
   </div>
  </div>
-
- <!-- <div class="row">
-  <div class="column">
-    <h3 style="text-align: center"><a href="https://nimrobotics.com/">Aakash</a></h3>
-  </div>
-  <div class="column">
-    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/carlos-meisel/">Carlos Meisel</a></h3>
-  </div>
-  <div class="column">
-    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/chris-notzon-8a8b0415a/">Carlos Meisel</a></h3>
-  </div>
-  <div class="column">
-    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
-  </div>
-</div> -->
+</div>
 
 <br>
 <br>
