@@ -46,7 +46,6 @@ To be updated.
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
   </div>
- </div>
 </div>
 
 <br>
